@@ -3,7 +3,14 @@ guid: daa3b082e93ec8f47a52b6b1597b930d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - normalSprite: {instanceID: 0}
+  - highlightedSprite: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - object1Prefab: {instanceID: 0}
+  - object2Prefab: {instanceID: 0}
+  - object3Prefab: {instanceID: 0}
+  - mouseScript: {fileID: 6547648341652810681, guid: 787f889c2ac49d3418b7d83bd061dd0f, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
